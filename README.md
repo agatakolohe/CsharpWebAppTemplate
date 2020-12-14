@@ -79,29 +79,6 @@ TODO
 
 If any errors or bugs occur with installation delete both bin and obj folders and follow the Installing Packages and Run Console Application instructions again. Get help or report a bug you have found in the .NET platform at [.NET Support](https://dotnet.microsoft.com/platform/support). Or please email me, <agatakolohe@gmail.com>.
 
-##### Run Console Application
-
-- Navigate to the Bakery folder in the command line
-- Use the command `dotnet build` to compile the code
-- Use the command `dotnet run` to execute the compiled code
-  - Enter the type of bread, number (int) of loaves and pasteries you would like to order
-  - Enjoy the console application!
-  - To exit press Ctrl + C
-
-##### View Online
-
-- To view in browser click the GH-Pages link: [Name of App](URL)
-- what to do when open online
-
-##### Open Locally
-
-- Click on the link to my repository: [My Repository](URL)
-- Click on the green "Code" button and copy the repository URL
-- Open your terminal and use the command `git clone REPO URL HERE` into the directory you would like to clone the repository
-- Open in text editor to view code and make changes
-
----dotnet restore instructions dotnet run build script?---
-
 ## Known Bugs
 
 TODO
