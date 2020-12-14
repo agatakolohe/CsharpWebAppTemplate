@@ -79,16 +79,11 @@ TODO
 
 If any errors or bugs occur with installation delete both bin and obj folders and follow the Installing Packages and Run Console Application instructions again. Get help or report a bug you have found in the .NET platform at [.NET Support](https://dotnet.microsoft.com/platform/support). Or please email me, <agatakolohe@gmail.com>.
 
-## Known Bugs
-
-TODO
-
-## Support and Contact Details
-
-If any errors or bugs occur with installation delete both bin and obj folders and follow the Installing Packages and Run Console Application instructions again. Get help or report a bug you have found in the .NET platform at [.NET Support](https://dotnet.microsoft.com/platform/support). Or please email me, <agatakolohe@gmail.com>.
-
 ## Technologies Used
 
+- HTML
+- Razor
+- ASP.NET Core MVC
 - C# 7.3
 - .NET Core 2.2
 - REPL
