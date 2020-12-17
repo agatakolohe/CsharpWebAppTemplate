@@ -1,6 +1,8 @@
+using System.Collections.Generic;
+
 namespace ProjectName.Models
 {
-    public class ClassName
+    public class ChildClassName
     {
         //public string getter and setters
     }

@@ -1,18 +1,23 @@
 using Microsoft.AspNetCore.Mvc;
-using ProjectName.Models;
+// using ProjectName.Models; <<change
+using System.Collections.Generic;
 
-namespace ProjectName.Controllers
+namespace ProjectName.Controllers //change
 {
-    public class HomeController : Controller
+    public class HomeController : Controller //main page/splash page
     {
-        [Route("/file")]
-        public ActionResult ClassName()
-        {
-            //instantiate variables here and return View(myVariable)
-        }
+        // [Route("/")] show the main welcome page
+        // public ActionResult Index()
+        // {
+        //     return View();
+        // }
 
-        [Route("/form")]
-        public ActionResult Form() { return View(); }
+        // [Route("/favorite_photos")] //route to pictures
+        // public ActionResult FavoritePhotos()
+        // {
+        //     return View();
+        // }
+
 
     }
 }

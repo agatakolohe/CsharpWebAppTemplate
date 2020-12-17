@@ -32,7 +32,7 @@ Purpose usage, detailed explanation what is does and any other information you w
 
 ##### Open Locally
 
-- Click on the link to my repository: [My Repository](https://github.com/agatakolohe/PierresBakery.Solution.git)
+- Click on the link to my repository: [My Repository]()
 - Click on the green "Code" button and copy the repository URL
 - Open your terminal and use the command `git clone REPO URL HERE` into the directory you would like to clone the repository
 - Open in text editor to view code and make changes
@@ -50,26 +50,16 @@ In order to run the application, please install .NET for your computer to recogn
 - Navigate to the Bakery.Tests folder in the command line
 - Use the command `dotnet restore`
 
-##### Run Console Application
+##### Run Tests
 
-- Navigate to the Bakery folder in the command line
-- Use the command `dotnet build` to compile the code
-- Use the command `dotnet run` to execute the compiled code
-  - Enter the type of bread, number (int) of loaves and pasteries you would like to order
-  - Enjoy the console application!
-  - To exit press Ctrl + C
+- Navigate to Bakery.Tests folder in the command line
+- Use the commands `dotnet build` and `dotnet restore` to make sure code is compiled and packages are installed
+- Use the command `dotnet test` to run tests on all test methods
 
 ##### View Online
 
 - To view in browser click the GH-Pages link: [Name of App](URL)
 - what to do when open online
-
-##### Open Locally
-
-- Click on the link to my repository: [My Repository](URL)
-- Click on the green "Code" button and copy the repository URL
-- Open your terminal and use the command `git clone REPO URL HERE` into the directory you would like to clone the repository
-- Open in text editor to view code and make changes
 
 ## Known Bugs
 
